@@ -1,5 +1,5 @@
 from typing import List
-            
+
 if __name__ == "__main__":
     path = './'
     german_path = './german.txt'
